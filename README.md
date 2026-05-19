@@ -13,4 +13,7 @@ cd auth-basica
 node index.js
 ```
 
+## Cambios
+V2 - Se pasa a utilizar variables de entorno con env. Para poder hacer uso del script se debe hacer un archivo dotenv como el del ejemplo.
+
 El script a traves de peticiones consigue mostrar el uso de JWT para el proceso de autenticacion en una app.
